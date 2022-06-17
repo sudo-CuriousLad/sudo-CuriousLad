@@ -1,9 +1,14 @@
 # Hello There!
-It's me, CuriousLad, and this is my measly GitHub page. I like coding and Linux, along with Minecraft, Minecrfat modding, science among a myriad of things. It's a pleasure to meet you!
+It's me, CuriousLad, and this is my measly GitHub page. I like coding and Linux, along with Minecraft modding and science among a myriad of things. It's a pleasure to meet you!
 
 I’m currently working on the mod Spectrum for Minecraft 1.18 as a contributor!
 
 ![CuriousLad's Github Stats](https://github-readme-stats.vercel.app/api?username=sudo-CuriousLad&show_icons=true&icon_color=FF0000&title_color=00FFFF&text_color=FFFFFF&border_color=FFFFFF&bg_color=000000)
+
+*Also trying to find the motivation to start using Jetpack Compose again.*
+
+Discord: CuriousLad#1678
+
 <!--
 **sudo-CuriousLad/sudo-CuriousLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
