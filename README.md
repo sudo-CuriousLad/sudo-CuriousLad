@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![CuriousLad's Github Stats](https://github-readme-stats.vercel.app/api?username=sudo-CuriousLad&show_icons=true&icon_color=FF0000&title_color=00FFFF&text_color=FFFFFF&border_color=FFFFFF&bg_color=000000)
 <!--
 **sudo-CuriousLad/sudo-CuriousLad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
