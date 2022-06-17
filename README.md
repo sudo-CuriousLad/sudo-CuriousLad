@@ -1,6 +1,7 @@
 # Hello There!
-It's me, CuriousLad, and this is my measly GitHub page.
-🔭 I’m currently working on the mod Spectrum for Minecraft 1.18 as a contributor
+It's me, CuriousLad, and this is my measly GitHub page. I like coding and Linux, along with Minecraft, Minecrfat modding, science among a myriad of things. It's a pleasure to meet you!
+
+I’m currently working on the mod Spectrum for Minecraft 1.18 as a contributor!
 
 ![CuriousLad's Github Stats](https://github-readme-stats.vercel.app/api?username=sudo-CuriousLad&show_icons=true&icon_color=FF0000&title_color=00FFFF&text_color=FFFFFF&border_color=FFFFFF&bg_color=000000)
 <!--
